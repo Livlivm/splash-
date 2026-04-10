@@ -34,3 +34,9 @@ Aplicativo desenvolvido em Flutter como atividade prática, com o objetivo de cr
 
 ---
 ## Prints
+Os prints então dentro da pasta assest 
+
+
+
+
+
